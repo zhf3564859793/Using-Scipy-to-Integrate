@@ -1,4 +1,5 @@
 # Using-Scipy-to-Integrate 
  
 ## package
-* scipy  
+* python==3.7.11
+* scipy==1.7.3 
